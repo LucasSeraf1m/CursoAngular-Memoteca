@@ -1,0 +1,22 @@
+{
+  "pensamento": [
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Angular é demais!",
+      "autoria": "Lucas S.",
+      "modelo": "modelo1",
+      "id": 3
+    },
+    {
+      "conteudo": "Front-end arrasa! :)",
+      "autoria": "Programador",
+      "modelo": "modelo3",
+      "id": 4
+    }
+  ]
+}
