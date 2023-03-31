@@ -1,20 +1,14 @@
 .acoes {
   display: flex;
   justify-content: center;
-<<<<<<< HEAD
   align-items: center;
   align-content: center;
-=======
->>>>>>> 2a5fd897100e7261b93f46f74bdb09a70374e978
 }
 
 .botao {
   margin: 5px;
-<<<<<<< HEAD
   margin-top: 70px;
   width: 200px;
-=======
->>>>>>> 2a5fd897100e7261b93f46f74bdb09a70374e978
 }
 
 .editar-pensamentos {
@@ -23,20 +17,10 @@
 
 .editar-pensamentos form {
   background: #C4EDFF;
-<<<<<<< HEAD
   border: none;
   border-radius: 20px;
   display: flex;
   flex-direction: column;
-=======
-
-  border: none;
-  border-radius: 20px;
-
-  display: flex;
-  flex-direction: column;
-
->>>>>>> 2a5fd897100e7261b93f46f74bdb09a70374e978
   padding: 2rem;
 }
 
@@ -54,10 +38,6 @@
   margin: 0.5rem 0 2rem;
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 2a5fd897100e7261b93f46f74bdb09a70374e978
 .editar-pensamentos form .textarea {
   border: none;
   padding: 1rem 2rem;
@@ -149,7 +129,6 @@ input[type='radio']:checked+.custom-radio {
 input[type='radio']:checked+.custom-radio span {
   background: #154580;
 }
-<<<<<<< HEAD
 
 .mensagem__erro {
   font-size: 12px;
@@ -164,5 +143,3 @@ input[type='radio']:checked+.custom-radio span {
   margin-top: 70px;
   width: 200px;
 }
-=======
->>>>>>> 2a5fd897100e7261b93f46f74bdb09a70374e978
