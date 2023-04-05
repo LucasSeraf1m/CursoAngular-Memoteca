@@ -59,6 +59,18 @@
       "conteudo": "Nada melhor que passar o tempo aprendendo coisas novas!",
       "autoria": "Lucas",
       "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Que a Força esteja com você!",
+      "autoria": "Mestre Yoda",
+      "modelo": "modelo1",
+      "id": 12
+    },
+    {
+      "conteudo": "Melhor professor, o fracasso é.",
+      "autoria": "Mestre Yoda",
+      "modelo": "modelo2",
+      "id": 13
     }
   ]
 }
