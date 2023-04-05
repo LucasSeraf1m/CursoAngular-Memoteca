@@ -4,73 +4,85 @@
       "id": 2,
       "conteudo": "Estudando Angular",
       "autoria": "Dev Alura",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "conteudo": "Angular é demais!",
       "autoria": "Lucas S.",
       "modelo": "modelo1",
-      "id": 3
+      "id": 3,
+      "favorito": true
     },
     {
       "conteudo": "Front-end arrasa! :)",
       "autoria": "Programador",
       "modelo": "modelo3",
-      "id": 4
+      "id": 4,
+      "favorito": false
     },
     {
       "conteudo": "Trabalhar é divertido!",
       "autoria": "Lucas",
       "modelo": "modelo1",
-      "id": 5
+      "id": 5,
+      "favorito": false
     },
     {
       "conteudo": "Ciência da Computação > Engenharia de Software",
       "autoria": "Aluno",
       "modelo": "modelo3",
-      "id": 6
+      "id": 6,
+      "favorito": false
     },
     {
       "conteudo": "Me tornando um cientista da computação :)",
       "autoria": "Estudante",
       "modelo": "modelo2",
-      "id": 7
+      "id": 7,
+      "favorito": true
     },
     {
       "conteudo": "Programar não é para poucos!",
       "autoria": "Dev",
       "modelo": "modelo1",
-      "id": 8
+      "id": 8,
+      "favorito": false
     },
     {
       "conteudo": "Cadê o café?",
       "autoria": "Programador",
       "modelo": "modelo1",
-      "id": 9
+      "id": 9,
+      "favorito": false
     },
     {
       "conteudo": "Estudar eleva a mente ;)",
       "autoria": "Aluno",
       "modelo": "modelo3",
-      "id": 10
+      "id": 10,
+      "favorito": false
     },
     {
       "id": 11,
       "conteudo": "Nada melhor que passar o tempo aprendendo coisas novas!",
       "autoria": "Lucas",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "conteudo": "Que a Força esteja com você!",
       "autoria": "Mestre Yoda",
       "modelo": "modelo1",
-      "id": 12
+      "id": 12,
+      "favorito": false
     },
     {
       "conteudo": "Melhor professor, o fracasso é.",
       "autoria": "Mestre Yoda",
       "modelo": "modelo2",
-      "id": 13
+      "id": 13,
+      "favorito": false
     }
   ]
 }
